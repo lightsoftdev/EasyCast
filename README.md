@@ -1,1 +1,1 @@
-# EasyCast Easycast installation package for Windows 10/11
+# EasyCast installation package for Windows 10/11
