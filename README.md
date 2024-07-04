@@ -2,7 +2,7 @@
 
 ## Windows 10/11
 
-Download from [Relase](https://github.com/lightsoftdev/EasyCast/releases/)
+Download from [Release](https://github.com/lightsoftdev/EasyCast/releases/)
 
 Download from [Microsoft Store](https://www.microsoft.com/store/apps/9P8BH9SMXQMC)
 
