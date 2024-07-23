@@ -4,7 +4,7 @@
 
 Download from [Release](https://github.com/lightsoftdev/EasyCast/releases/)
 
-Download from [Microsoft Store](https://www.microsoft.com/store/apps/9P8BH9SMXQMC)
+Download from [Microsoft Store](https://apps.microsoft.com/detail/9p8bh9smxqmc)
 
 ## MacOS
 Download from [Mac App Store](https://apps.apple.com/app/id6449523222)
